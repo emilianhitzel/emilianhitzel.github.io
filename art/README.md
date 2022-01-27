@@ -1,4 +1,4 @@
-# My artwork
+# My Artwork
 
 
 [![](polaroids/lost-in-tokyo.png)](lost-in-tokyo.jpg)
